@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Patterns.Factory.Shapes
+namespace Patterns.Abstract_Factory.Shapes
 {
     public class Capsule : Shape
     {
